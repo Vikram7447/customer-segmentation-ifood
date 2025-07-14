@@ -87,5 +87,5 @@ This project performs customer segmentation analysis for an e-commerce company u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vikram7447/customer-segmentation-ifood.git 
-   cd customer-segmentation-ifood
+   git clone
+   (https://github.com/Vikram7447/customer-segmentation-ifood)
